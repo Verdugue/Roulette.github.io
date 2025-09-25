@@ -1,4 +1,4 @@
-const API_URL = '';
+const API_URL = 'http://localhost:3000';
 const importBtn = document.getElementById('importBtn');
 const createBtn = document.getElementById('createBtn');
 const namesInput = document.getElementById('namesInput');
