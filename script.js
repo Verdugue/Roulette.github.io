@@ -1,4 +1,4 @@
-const API_URL = 'https://roulettegithubio-production.up.railway.app/';
+const API_URL = 'https://roulettegithubio-production.up.railway.app';
 const importBtn = document.getElementById('importBtn');
 const createBtn = document.getElementById('createBtn');
 const namesInput = document.getElementById('namesInput');
