@@ -1,0 +1,7 @@
+{
+  "name": "launcher",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd roulette-bot && npm install && npm start"
+  }
+}
